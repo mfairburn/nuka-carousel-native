@@ -1,7 +1,7 @@
 {
-  "name": "nuka-carousel",
+  "name": "nuka-carousel-native",
   "version": "3.2.0",
-  "description": "Pure React Carousel",
+  "description": "Pure React Carousel with Native components",
   "main": "index.js",
   "dependencies": {
     "create-react-class": "^15.6.2",
@@ -48,11 +48,12 @@
     "karma-sinon-chai": "^1.1.0",
     "karma-webpack": "^1.7.0",
     "mocha": "^2.3.3",
-    "phantomjs": "^2.1.7",
+    "phantomjs-prebuilt": "^2.1.7",
     "prop-types": "^15.6.0",
-    "react": "^16.0.0",
+    "react": "16.3.1",
     "react-dom": "^16.0.0",
     "react-hot-loader": "^1.3.0",
+    "react-native": "0.55.4",
     "sinon": "^1.17.1",
     "sinon-chai": "^2.8.0",
     "style-loader": "^0.12.4",
@@ -70,18 +71,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenwheeler/nuka-carousel.git"
+    "url": "https://github.com/mfairburn/nuka-carousel-native"
   },
   "keywords": [
     "react",
+    "native",
     "carousel",
     "nuka"
   ],
-  "author": "Ken Wheeler",
+  "author": "Mark Fairburn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kenwheeler/nuka-carousel/issues"
+    "url": "https://github.com/mfairburn/nuka-carousel-native/issues"
   },
-  "homepage": "https://github.com/kenwheeler/nuka-carousel",
+  "homepage": "https://github.com/mfairburn/nuka-carousel-native",
   "sideEffects": false
 }

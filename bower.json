@@ -1,15 +1,16 @@
 {
-  "name": "nuka-carousel",
+  "name": "nuka-carousel-native",
   "main": "index.js",
   "version": "0.0.9",
-  "homepage": "https://github.com/kenwheeler/nuka-carousel",
+  "homepage": "https://github.com/mfairburn/nuka-carousel-native",
   "authors": [
-    "Ken Wheeler <ken_wheeler@me.com>"
+    "Mark Fairburn <mark@alphinio.com>"
   ],
-  "description": "Pure React Carousel",
+  "description": "Pure React Carousel with Native components",
   "keywords": [
     "Carousel",
     "React",
+    "Native",
     "Nuka"
   ],
   "license": "MIT",
